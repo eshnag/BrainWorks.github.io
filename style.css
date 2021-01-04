@@ -8,8 +8,8 @@ html, body {
 
 }
 .header {
- // padding: 80px; /* some padding */
-  text-align: center; /* center the text */
+ //padding: 80px; /* some padding */
+   text-align: center; /* center the text */
   color: white; /* white text color */
   padding-top: 80px;
   padding-bottom:none;
@@ -282,4 +282,31 @@ margin-left:auto;
 margin-right:auto;
 margin-top:10%;
 padding-bottom:10%;
+}
+#bannerimage {
+  width: 100%;
+  background-image: url(https://i.postimg.cc/Y0PxjJ64/newbanner.png);
+  height: 400px;
+margin-left: -1em;
+margin-right:  -1em; 
+ // width: absolute;
+  background-position: center;
+}
+#secondbanner {
+  width: 100%;
+  background-image: url(https://i.postimg.cc/yNw66vKy/Digital-Education-Enrichment.png);
+  height: 400px;
+margin-left: -1em;
+margin-right:  -1em; 
+ // width: absolute;
+  background-position: center;
+}
+#thirdbanner {
+  width: 100%;
+  background-image: url(https://i.postimg.cc/y8KsGkPv/usernav.png');
+  height: 400px;
+margin-left: -1em;
+margin-right:  -1em; 
+ // width: absolute;
+  background-position: center;
 }
